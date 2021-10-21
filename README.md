@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, UX Design, AI
 - 🌱 I’m currently learning website making from The Odin Project
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ewyy.design@gmail.com or add me on Instagram @ewyy.design
+- 📫 You can reach me at ewyy.design@gmail.com or add me on Instagram @ewyy.design
 
 <!---
 ewyy-design/ewyy-design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
